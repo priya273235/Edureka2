@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-24T13:42:39 IST" name="Default suite" finished-at="2022-10-24T13:44:15 IST" duration-ms="95728">
+    <groups>
+    </groups>
+    <test started-at="2022-10-24T13:42:39 IST" name="Default test" finished-at="2022-10-24T13:44:15 IST" duration-ms="95728">
+      <class name="LambdaCertification.com.LambdaCertification">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext)[pri:0, instance:LambdaCertification.com.LambdaCertification@72cde7cc]" started-at="2022-10-24T13:42:39 IST" name="setup" finished-at="2022-10-24T13:43:15 IST" duration-ms="35534" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void LambdaCertification.com.LambdaCertification.Scenario1()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c455e96]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Scenario1()[pri:1, instance:LambdaCertification.com.LambdaCertification@72cde7cc]" started-at="2022-10-24T13:43:15 IST" name="Scenario1" finished-at="2022-10-24T13:43:23 IST" duration-ms="8232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario1 -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext)[pri:0, instance:LambdaCertification.com.LambdaCertification@72cde7cc]" started-at="2022-10-24T13:43:23 IST" name="setup" finished-at="2022-10-24T13:43:32 IST" duration-ms="8994" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void LambdaCertification.com.LambdaCertification.Scenario2()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c455e96]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Scenario2()[pri:2, instance:LambdaCertification.com.LambdaCertification@72cde7cc]" started-at="2022-10-24T13:43:32 IST" name="Scenario2" finished-at="2022-10-24T13:43:40 IST" duration-ms="7989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario2 -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext)[pri:0, instance:LambdaCertification.com.LambdaCertification@72cde7cc]" started-at="2022-10-24T13:43:40 IST" name="setup" finished-at="2022-10-24T13:43:56 IST" duration-ms="15892" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void LambdaCertification.com.LambdaCertification.Scenario3() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@7c455e96]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Scenario3()[pri:3, instance:LambdaCertification.com.LambdaCertification@72cde7cc]" started-at="2022-10-24T13:43:56 IST" name="Scenario3" finished-at="2022-10-24T13:44:15 IST" duration-ms="19050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario3 -->
+      </class> <!-- LambdaCertification.com.LambdaCertification -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
